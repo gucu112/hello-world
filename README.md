@@ -58,4 +58,4 @@ git push origin master
 ```
 
 ### License
-MIT
+[MIT](LICENSE)
