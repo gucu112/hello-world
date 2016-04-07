@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/gucu112/hello-world/issues"
   },
-  "homepage": "https://github.com/gucu112/hello-world#readme"
+  "homepage": "https://github.com/gucu112/hello-world#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
