@@ -4,16 +4,16 @@ Simple npm package and git repository for testing purposes
 
 ### Getting started
 
-Clone the repo with:
-`git clone`
-Then install dependencies:
-`npm install`
-and just type:
+Clone the repo with:  
+`git clone`  
+Then install dependencies:  
+`npm install`  
+and just type:  
 `npm start`
 
 ### Build with
-- Express
-- Jade
+- [express](https://github.com/expressjs/express)
+- [jade](https://github.com/jadejs/jade)
 
 ### Commands
 
