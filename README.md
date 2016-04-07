@@ -42,7 +42,6 @@ git checkout master
 git merge node
 git branch -d node
 git push origin master
-# npm install jade & "Add jade view engine"
 git checkout -b jade
 npm install jade --save
 mkdir views && cd views
